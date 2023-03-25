@@ -1,9 +1,16 @@
 {
-	"plants": 
-	[
-		{
-			"name": "Sunflower",
-			"image": "",
-		}
-	]
+  "humidity": "29",
+  "temperature": "80",
+  "soilmoisture": "80",
+  "airquality": "0",
+  "plant": "0",
+  "disease": "0"
+}
+{
+  "humidity": "29",
+  "temperature": "80",
+  "soilmoisture": "80",
+  "airquality": "0",
+  "plant": "0",
+  "disease": "0"
 }

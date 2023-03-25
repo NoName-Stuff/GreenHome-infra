@@ -1,0 +1,1 @@
+Temperature: 29 Humidity: 80 soilMoisture: 80 Temperature: 29 Humidity: 80 soilMoisture: 80 Temperature: 29 Humidity: 80 soilMoisture: 80
